@@ -1,7 +1,7 @@
 ### Hi there, I'm a Human 👋
 
 - 🔭 I’m currently working on a big project
-- 🌱 I’m currently learning Java & SQL
+- 🌱 I’m currently learning Python & SQL
 - 💬 Ask me about nothing
 - ⚡ Fun fact: Life Sucks
 
