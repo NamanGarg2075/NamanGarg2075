@@ -1,4 +1,4 @@
-### Hi there, I'm a Human 👋
+### Hi! Designatory Here </> 👋
 
 - 🔭 I’m currently working on a big project
 - 🌱 I’m currently learning Java & SQL
