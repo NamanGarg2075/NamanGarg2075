@@ -1,7 +1,7 @@
-### Hi! Designatory Here </> 👋
+### Hi! Naman Garg Here </> 👋
 
 - 🔭 I’m currently working on goals
-- 🌱 I’m currently learning React and tailwind css
+- 🌱 I’m currently learning Python and SQL
 <!-- - 💬 Ask me about nothing -->
 - ⚡ Fun fact: None
 
