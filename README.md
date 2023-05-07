@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on goals
 - 🌱 I’m learning Python and SQL
 - 💬 Ask me about nothing
-- ⚡ Fun fact: None
+- ⚡ Fun fact: I'm still finding fun fact
 
 ### Programming Languages
 <!-- PYTHON -->
@@ -32,7 +32,7 @@
 <!--  NOTION -->
 <a href="https://www.notion.so/" target="blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" /></a>
 <!--  ChatGPT -->
-<a href="https://chat.openai.com/" target="blank"><img src="https://img.shields.io/badge/ChatBot-00AC47.svg?style=for-the-badge&logo=ChatBot&logoColor=white" alt="ChatGPT" /></a>
+<a href="https://chat.openai.com/" target="blank"><img src="https://img.shields.io/badge/ChatGPT-00AC47.svg?style=for-the-badge&logo=ChatBot&logoColor=white" alt="ChatGPT" /></a>
 </p>
 
 ### My activities 👀
