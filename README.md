@@ -7,9 +7,18 @@
 
 ### Programming Languages
 <!-- PYTHON -->
-<p><a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/Python-EAB300.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /></a>
+<p><a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/Python-A8A813.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /></a>
 <!-- SQL -->
 <a href="https://www.mysql.com/" target="blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /></a>
+</p>
+
+### ML/DL
+<!-- NUMPY -->
+<p><a href="https://numpy.org/" target="blank"><img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="Numpy" /></a>
+<!-- PANDAS -->
+<a href="https://pandas.pydata.org/" target="blank"><img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+<!-- Matplotlib -->
+<a href="https://pandas.pydata.org/" target="blank"><img src="https://img.shields.io/badge/Plotly-EB5424.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Matplotlib" /></a>
 </p>
 
 ### Follow me on social :)
