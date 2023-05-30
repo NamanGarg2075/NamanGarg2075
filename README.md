@@ -16,9 +16,9 @@
 <!-- NUMPY -->
 <p><a href="https://numpy.org/" target="blank"><img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="Numpy" /></a>
 <!-- PANDAS -->
-<a href="https://pandas.pydata.org/" target="blank"><img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+<a href="https://pandas.pydata.org/" target="blank"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
 <!-- Matplotlib -->
-<a href="https://pandas.pydata.org/" target="blank"><img src="https://img.shields.io/badge/Plotly-EB5424.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Matplotlib" /></a>
+<a href="https://pandas.pydata.org/" target="blank"><img src="https://img.shields.io/badge/Matplotlib-EB5424.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Matplotlib" /></a>
 </p>
 
 ### Follow me on social :)
