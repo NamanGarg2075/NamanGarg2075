@@ -1,6 +1,6 @@
 ### Hi! Naman Garg Here </> 👋
 
-- 🔭 I’m currently working on goals
+- 🔭 I’m currently working on AI/ML
 - 🌱 I’m learning Python and SQL
 - 💬 Ask me about nothing
 - ⚡ Fun fact: I'm still finding fun fact
