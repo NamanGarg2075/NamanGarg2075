@@ -48,5 +48,5 @@
 <a href="https://youtube.com/@namangarg2075" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="Naman Garg YouTube" /></a></p>
 
 ### My activities 👀
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=NamanGarg2075&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](#)
+<!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=NamanGarg2075&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](#) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=NamanGarg2075&theme=dark&border_radius=3&date_format=j%20M%5B%20Y%5D&card_width=465&fire=DADADA&ring=606060&currStreakLabel=79FF97)](#)
