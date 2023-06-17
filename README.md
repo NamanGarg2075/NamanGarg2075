@@ -1,7 +1,7 @@
 ### Hi! Naman Garg Here </> 👋
 
 - 🔭 I’m currently working on AI/ML
-- 🌱 I’m learning Python and SQL
+- 🌱 I’m learning Python and Web Scrapping
 - 💬 Ask me about nothing
 - ⚡ Fun fact: I'm still finding fun fact
 
