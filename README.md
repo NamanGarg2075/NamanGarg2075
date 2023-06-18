@@ -43,7 +43,7 @@
 <!-- INSTAGRAM -->
 <a href="https://instagram.com/namangarg2075" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Naman Garg Instagram" /></a>
 <!-- LINKEDIN -->
-<a href="https://linkedin.com/in/namangarg2075" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Naman Garg Linkedin" /></a>
+<a href="https://linkedin.com/in/namangarg2075" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Naman Garg Linkedin" /> </a>
 <!-- YOUTUBE -->
 <a href="https://youtube.com/@namangarg2075" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="Naman Garg YouTube" /></a></p>
 
