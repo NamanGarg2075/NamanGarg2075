@@ -1,7 +1,7 @@
 ### Hi! Naman Garg Here </> 👋
 
-- 🔭 I’m currently working on AI/ML
-- 🌱 I’m learning Java
+- 🔭 I’m currently working on Myself
+- 🌱 I’m learning Android Development
 - 💬 Ask me about nothing
 - ⚡ Fun fact: I'm still finding fun fact
 
