@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Myself
 - 🌱 I’m learning Deep Learning
-- 💬 Ask me about nothing
+- 💬 Ask me about anything
 - ⚡ Fun fact: I'm still finding fun fact
 
 ### Programming Languages
