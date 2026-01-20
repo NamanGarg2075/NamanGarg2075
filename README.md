@@ -1,51 +1,27 @@
-### Hi! Naman Garg Here </> 👋
+# 💫 About Me:
+🔭 I’m currently working on myself<br>🌱 I’m learning Deep Learning<br>💬 Ask me about Anything<br>⚡ Fun fact: I'm still finding fun facts
 
-- 🔭 I’m currently working on Myself
-- 🌱 I’m learning Deep Learning
-- 💬 Ask me about Anything
-- ⚡ Fun fact: I'm still finding fun fact
 
-### Programming Languages
-<!-- PYTHON -->
-<p><a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/Python-A8A813.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /></a>
-<!-- SQL -->
-<a href="https://www.mysql.com/" target="blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/namangarg2075) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/namangarg2075) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@namangarg2075) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namangarg2075@gmail.com) 
 
-### ML/DL
-<!-- NUMPY -->
-<p><a href="https://numpy.org/" target="blank"><img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="Numpy" /></a>
-<!-- PANDAS -->
-<a href="https://pandas.pydata.org/" target="blank"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
-<!-- MATPLOTLIB -->
-<a href="https://matplotlib.org/" target="blank"><img src="https://img.shields.io/badge/Matplotlib-EB5424?style=for-the-badge&logo=image%2Fpng%3Bbase64%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" alt="Matplotlib" /></a>
-<!-- SEABORN -->
-<a href="https://seaborn.pydata.org/" target="blank"><img src="https://img.shields.io/badge/Seaborn-07405E.svg?style=for-the-badge&logo=Plotly&logoColor=white" alt="Seavorn" /></a>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=namangarg2075&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=namangarg2075&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=namangarg2075&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=namangarg2075&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### Tools I use
-<!-- VISUAL STUDIO CODE -->
-<p><a href="https://code.visualstudio.com/" target="blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code" /></a>
-<!--  GIT -->
-<a href="https://git-scm.com/" target="blank"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" /></a>
-<!--  NOTION -->
-<a href="https://www.notion.so/" target="blank"><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" /></a>
-<!--  ChatGPT -->
-<a href="https://chat.openai.com/" target="blank"><img src="https://img.shields.io/badge/ChatGPT-00AC47.svg?style=for-the-badge&logo=ChatBot&logoColor=white" alt="ChatGPT" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Follow me on social :)
-<!-- GITHUB -->
-<p align="left"> <a href="https://github.com/namangarg2075" target="blank"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="Naman Garg GitHub" /></a> 
-<!-- TWITTER -->
-<a href="https://twitter.com/namangarg2075" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Naman Garg Twitter" /></a>
-<!-- INSTAGRAM -->
-<a href="https://instagram.com/namangarg2075" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Naman Garg Instagram" /></a>
-<!-- LINKEDIN -->
-<a href="https://linkedin.com/in/namangarg2075" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Naman Garg Linkedin" /> </a>
-<!-- YOUTUBE -->
-<a href="https://youtube.com/@namangarg2075" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="Naman Garg YouTube" /></a></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=namangarg2075&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### My activities 👀
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=namangarg2075&theme=dark&hide_border=false)](#)
+---
+[![](https://visitcount.itsvg.in/api?id=namangarg2075&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
